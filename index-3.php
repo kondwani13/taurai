@@ -5,7 +5,6 @@
 <html class="no-js" lang="en">
 
 
-<!-- Mirrored from zwin.io/html/phootio/index-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 08 Apr 2024 14:51:02 GMT -->
 <head>
 
     <meta charset="utf-8">
@@ -149,9 +148,9 @@
 
         </div>
     </div>
-    <!-- Widget Offcanvas Start  -->
+    
 
-    <!-- Offcanvas Menu Start  -->
+   
     <div id="offcanvas-mobile-menu" class="offcanvas-mobile-menu">
         <button class="close-btn" data-target="#offcanvas-mobile-menu">close</button>
         <div class="inner">
@@ -159,30 +158,13 @@
             <div class="mobile-menu">
                 <ul>
                     <li><a href="index-3.html">home</a>
-                        <!-- <ul class="sub-menu">
-                            <li><a href="index-2.html">Home One</a></li>
-                            <li><a href="index-3.html">Home Two</a></li>
-                            <li><a href="index-4.html">Home Three</a></li>
-                            <li><a href="index-5.html">Home Four</a></li>
-                        </ul> -->
+                        
                     </li>
                     <li><a href="blog.html">blog</a>
-                        <!-- <ul class="sub-menu">
-                            <li><a href="blog.html">Blog</a></li>
-                            <li><a href="blog2.html">Blog 2</a></li>
-                            <li><a href="blog-details.html">Blog Details</a></li>
-                        </ul> -->
+                        
                     </li>
                     <li><a href="#">pages</a>
-                        <!-- <ul class="sub-menu">
-                            <li><a href="about.html">About us</a></li>
-                            <li><a href="service.html">Service</a></li>
-                            <li><a href="faqs.html">FAQ</a></li>
-                            <li><a href="coming-soon.html">Coming-Soon</a></li>
-                            <li><a href="404.html">404 Error</a></li>
-                            <li><a href="sign-in.html">Sign In</a></li>
-                            <li><a href="sign-up.html">Sign Up</a></li>
-                        </ul> -->
+                        
                     </li>
                     <li><a href="gallery.html">gallery</a></li>
                     <li><a href="shop.html">shop</a>
@@ -221,6 +203,7 @@
                             <li><a href="blog-details.html">Blog Details</a></li>
                         </ul> -->
                     </li>
+                    <div> commit </div>
                     <li><a href="#">pages</a>
                         <!-- <ul class="sub-menu">
                             <li><a href="about.html">About us</a></li>
