@@ -1,0 +1,25 @@
+[15-Aug-2024 20:03:11 CST6CDT] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''8''' at line 1 in /home/customer/www/taurai.com/public_html/category.php:4
+Stack trace:
+#0 /home/customer/www/taurai.com/public_html/category.php(4): mysqli_query(Object(mysqli), 'SELECT * from b...')
+#1 {main}
+  thrown in /home/customer/www/taurai.com/public_html/category.php on line 4
+[18-Aug-2024 09:14:47 CST6CDT] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'nvOpzp; AND 1=1 OR (<'">iKO)),'' at line 1 in /home/customer/www/taurai.com/public_html/category.php:4
+Stack trace:
+#0 /home/customer/www/taurai.com/public_html/category.php(4): mysqli_query(Object(mysqli), 'SELECT * from b...')
+#1 {main}
+  thrown in /home/customer/www/taurai.com/public_html/category.php on line 4
+[18-Aug-2024 17:25:28 CST6CDT] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'nvOpzp; AND 1=1 OR (<'">iKO)),'' at line 1 in /home/customer/www/taurai.com/public_html/category.php:4
+Stack trace:
+#0 /home/customer/www/taurai.com/public_html/category.php(4): mysqli_query(Object(mysqli), 'SELECT * from b...')
+#1 {main}
+  thrown in /home/customer/www/taurai.com/public_html/category.php on line 4
+[24-Aug-2024 22:25:28 CST6CDT] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'nvOpzp; AND 1=1 OR (<'">iKO)),'' at line 1 in /home/customer/www/taurai.com/public_html/single.php:4
+Stack trace:
+#0 /home/customer/www/taurai.com/public_html/single.php(4): mysqli_query(Object(mysqli), 'SELECT * from b...')
+#1 {main}
+  thrown in /home/customer/www/taurai.com/public_html/single.php on line 4
+[04-Sep-2024 17:26:19 CST6CDT] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''9''' at line 1 in /home/customer/www/taurai.com/public_html/category.php:4
+Stack trace:
+#0 /home/customer/www/taurai.com/public_html/category.php(4): mysqli_query(Object(mysqli), 'SELECT * from b...')
+#1 {main}
+  thrown in /home/customer/www/taurai.com/public_html/category.php on line 4
