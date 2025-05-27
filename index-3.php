@@ -168,11 +168,6 @@
                     </li>
                     <li><a href="gallery.html">gallery</a></li>
                     <li><a href="shop.html">shop</a>
-                        <!-- <ul class="sub-menu">
-                            <li><a href="shop.html">Shop</a></li>
-                            <li><a href="product-details.html">Product Details</a></li>
-                            <li><a href="checkout.html">Checkout</a></li>
-                        </ul> -->
                     </li>
                     <li><a href="contact.html">contacts</a></li>
                 </ul>
