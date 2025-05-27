@@ -1,9 +1,6 @@
 <?php require("libs/fetch_data.php");?>
 <!doctype html>
 <html class="no-js" lang="en">
-
-
-<!-- Mirrored from zwin.io/html/phootio/gallery.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 08 Apr 2024 14:52:08 GMT -->
 <head>
 
 <title>faq</title>
@@ -263,14 +260,8 @@
         </div>
         <!-- FAQ Section End -->
 
-        <!-- Clients Section Start -->
-       
-        <!-- Clients Section End -->
-
     </div>
     <!--Main Content Wrapper End-->
-
-    <!--Footer Area Start-->
     <!-- Footer Start -->
     <div style="margin-top: 50px" class="footer-section section">
 
