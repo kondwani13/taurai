@@ -197,23 +197,12 @@
                         </ul> -->
                     </li>
                     <li><a href="blog.html">blog</a>
-                        <!-- <ul class="sub-menu">
-                            <li><a href="blog.html">Blog</a></li>
-                            <li><a href="blog2.html">Blog 2</a></li>
-                            <li><a href="blog-details.html">Blog Details</a></li>
-                        </ul> -->
+                        
                     </li>
                     <div> commit </div>
                     <li><a href="#">pages</a>
-                        <!-- <ul class="sub-menu">
-                            <li><a href="about.html">About us</a></li>
-                            <li><a href="service.html">Service</a></li>
-                            <li><a href="faqs.html">FAQ</a></li>
-                            <li><a href="coming-soon.html">Coming-Soon</a></li>
-                            <li><a href="404.html">404 Error</a></li>
-                            <li><a href="sign-in.html">Sign In</a></li>
-                            <li><a href="sign-up.html">Sign Up</a></li>
-                        </ul> -->
+                        
+                        </ul> 
                     </li>
                     <li><a href="gallery.html">gallery</a></li>
                     <li><a href="shop.html">shop</a>
